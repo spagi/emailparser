@@ -1,0 +1,14 @@
+{
+    "name": "spagi/email-parser",
+    "description": "packages for store and parsing incomming emails",
+    "authors": [
+        {
+            "name": "Spagi",
+            "email": "jstrnadel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "webklex/php-imap": "^1.0@dev"
+    }
+}
