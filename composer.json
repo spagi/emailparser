@@ -10,5 +10,10 @@
     "minimum-stability": "dev",
     "require": {
         "webklex/php-imap": "^1.0@dev"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^0.12.0@dev",
+        "phpunit/phpunit": "^8",
+        "mockery/mockery": "^1.2@dev"
     }
 }
