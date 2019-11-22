@@ -16,3 +16,7 @@ Run the command below to publish the package config file `config/emailparser.php
             'password' => env('IMAP_PASSWORD', 'pass') 
 
 
+#### Example
+
+             $date = new \DateTimeImmutable('19.11.2019'); 
+             $this->emailMessagesService->synchronize( $date);
